@@ -2,7 +2,7 @@ body{
 margin: 0;
 padding: 0;
 background: url(wave.gif.gif) no-repeat;
-background-size: cover;
+background-size: contain;
 }
 .box{
 width: 450px;
