@@ -11,20 +11,19 @@ padding: 30px;
 text-align: center;
 margin: auto;
 margin-top: 5%;
-margin-bottom 5%;
 color: white;
 font-family: 'Verdana',sans-serif;
 }
 .box-img{
 width: 200px;
-height: 200px;
+height: 150px;
 }
 .box h1{
 font-size: 40px;
 letter-spacing: 4px;
 font-weight: 100;
 }
-.box h4{
+.box h3{
 font-size: 20px;
 letter-spacing: 3px;
 font-weight: 100;
